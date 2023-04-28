@@ -1,0 +1,14 @@
+{
+  "name": "software_engineer_senior_interview",
+  "version": "1.0.0",
+  "description": "Algorithm test for SWE Senior",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mcastrucci",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
